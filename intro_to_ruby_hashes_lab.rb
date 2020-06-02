@@ -65,6 +65,7 @@ def monopoly_with_fourth_tier
 	      :shortline => {
 	        "mortage_value" => "$800"
 	      }
+	      binding.pry
 	    },
 	    :rent_in_dollars => {
 	      :one_piece_owned => 25,
