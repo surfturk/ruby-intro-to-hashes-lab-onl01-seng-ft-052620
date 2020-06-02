@@ -11,7 +11,7 @@ end
 
 def monopoly
 	monopoly = {
-	  :railroads => 
+	  :railroads => {}
 	  
 	}
 binding.pry
